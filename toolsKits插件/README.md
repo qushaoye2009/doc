@@ -6,7 +6,7 @@
 <pre class="light-well">https://github.com/robbyrussell/oh-my-zsh/</pre>
 </fieldset>
 <hr>
-<h3>vcode</h3>
+<h3>vscode</h3>
 <fieldset>
 <h5>vscode-vue</h5>
 <pre class="light-well">vue</pre>
