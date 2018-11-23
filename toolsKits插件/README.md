@@ -12,7 +12,7 @@
 <pre class="light-well">vue</pre>
 </fieldset>
 </div>
----
+
 ## vscode插件安装
 ### Atom One Dark Theme 主题
 ### VSCode Great Icons 图标主题
@@ -37,12 +37,12 @@
 ### language-stylus CSS预处理器styl后缀文件的识别扩展
 ### View In Browser 迅速通过浏览器打开html文件
 
----
 ## VScode主题配置
 <div>
 <pre class="prettyprint">
 <fieldset>
 <code class="prism language-dash has-numbering">{ 
+    
     "editor.tabSize": 2,
     "editor.lineHeight": 24,
     "editor.renderLineHighlight": "none",
