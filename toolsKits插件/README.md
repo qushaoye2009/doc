@@ -12,25 +12,7 @@
 <pre class="light-well">vue</pre>
 </fieldset>
 </div>
-
-
-## vue 模版
-
-# Vue
-webpack3 + TS ：分支 relase@3
-
-webpack4 ：分支 relase@4
-
-webpack4 + TS ：分支 relase@4ts
-
-# React
-
-[webpack4](https://github.com/lwpersonal/module_React)
-
-# JS
-
-webpack4 + babel7 (多入口配置): 分支 release@4/babel7
-
+---
 ## vscode插件安装
 ### Atom One Dark Theme 主题
 ### VSCode Great Icons 图标主题
@@ -55,13 +37,12 @@ webpack4 + babel7 (多入口配置): 分支 release@4/babel7
 ### language-stylus CSS预处理器styl后缀文件的识别扩展
 ### View In Browser 迅速通过浏览器打开html文件
 
-
 ---
+## VScode主题配置
 <div>
 <pre class="prettyprint">
 <fieldset>
 <code class="prism language-dash has-numbering">{ 
-    VScode主题配置
     "editor.tabSize": 2,
     "editor.lineHeight": 24,
     "editor.renderLineHighlight": "none",
