@@ -16,7 +16,8 @@
 ## vscode插件安装
 ### Atom One Dark Theme 主题
 ### VSCode Great Icons 图标主题
-### Beautify 美化vscode代码
+### Prettier - Code formatter(推荐)
+### Beautify 美化vscode代码(不推荐)
 ### Bracket Pair Colorizer 每一对括号用不同颜色区别 （括号强迫症必备）
 ### cssrem 将css中的px自动转换为rem.再也不用计算器了（大漠大神推介）
 ### Code Runner node，python等代码不必开命令行即可运行
@@ -178,3 +179,6 @@
 </fieldset>
 
 </div>
+# 增加vscode 格式化单引号，去除分号 （User Setting）
+ "prettier.singleQuote": true,
+ "prettier.semi": false
