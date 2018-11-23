@@ -177,8 +177,10 @@
     }
 </code></pre>
 </fieldset>
-
 </div>
-# 增加vscode 格式化单引号，去除分号 （User Setting）
- "prettier.singleQuote": true,
- "prettier.semi": false
+
+## 增加vscode 格式化单引号，去除分号 （User Setting）
+### "prettier.singleQuote": true, 
+### "prettier.semi": false
+
+---
